@@ -4,6 +4,7 @@ node_modules
 dist
 .npmrc
 .cache
+package-lock*
 
 .local
 # local env files

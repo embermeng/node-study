@@ -1,0 +1,17 @@
+/* 我乱码了吗？ */
+td {
+    padding: 20px 40px;
+}
+
+table tr:nth-child(odd) {
+    background: #bfc;
+}
+
+table tr:nth-child(even) {
+    background: #aef;
+}
+
+table,
+td {
+    border-collapse: collapse;
+}

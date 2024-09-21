@@ -1,0 +1,20 @@
+{
+  "accounts": [
+    {
+      "id": "-XCZS4SrM",
+      "title": "发工资",
+      "time": "2024-09-15",
+      "type": "1",
+      "account": "4396",
+      "remarks": "终于发工资了"
+    },
+    {
+      "id": "Fje5DhnVm",
+      "title": "买电脑",
+      "time": "2024-09-21",
+      "type": "-1",
+      "account": "20000",
+      "remarks": "买电脑玩黑神话"
+    }
+  ]
+}
